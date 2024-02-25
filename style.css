@@ -1,0 +1,27 @@
+body{
+    background: url(ground.jpg);
+}
+.block{
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: azure;
+    will-change: 50%;
+    height: 10%;
+    border-radius: 15px;
+    font-size: 40px;
+    margin-top: 150px;
+    font-family: "Pacifico",cursive;
+}
+.batoni button{
+    background-color: aqua;
+    color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    box-shadow:1px 1px 2px 1px;
+    margin-right: 40px;
+    position: relative;
+    left: 860px;
+}
